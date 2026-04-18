@@ -79,7 +79,7 @@ To customize this portfolio for your own use, navigate to `src/config/constants.
 Stay connected for more tutorials, templates, and tech insights:
 
 - **Instagram:** [@theCodingScene.dev](https://instagram.com/thecodingscene.dev)
-- **Website:** [theCodingScene.dev](https://thecodingscene.vercel.app/) 
+- **Website:** [theCodingScene.dev](https://thecodingscene.vercel.app/)
 
 ## ⚖️ License
 
